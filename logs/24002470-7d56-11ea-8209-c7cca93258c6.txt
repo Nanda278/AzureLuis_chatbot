@@ -1,0 +1,54 @@
+2020-04-13/12:56:33		Bot Says: Welcome, 
+ I am a covid bot, you can enquiry me to get the latest covid details on world wide
+2020-04-13/12:56:45		Bot Says: Hey, the total number of confirmed cases in **World** is 1846679
+2020-04-13/12:57:54		Bot Says: Please find the below table 
+ Country   |	 total 
+-------  |	 ---------- 
+US  |	  22020 
+
+2020-04-13/12:59:28		user Says: hii
+2020-04-13/12:59:28		Bot Says: Welcome, 
+ I am a covid bot, you can enquiry me to get the latest covid details on world wide
+2020-04-13/13:00:01		user Says: send me the top 3 countries with highest death cases
+2020-04-13/13:00:01		Bot Says: Please find the below table 
+ Country   |	 total 
+-------  |	 ---------- 
+US  |	  555313 
+Spain  |	  166831 
+Italy  |	  156363 
+
+2020-04-13/13:00:36		user Says: 3 countries with maximum number of recovered cases of covid-19 virus
+2020-04-13/13:00:36		Bot Says: Sorry I cannot recognize your msg. Please provide a ccorrect message. For Eg., total cases in India
+2020-04-13/13:01:06		user Says: top 2 countries with highest recovered cases
+2020-04-13/13:01:06		Bot Says: Sorry I cannot recognize your msg. Please provide a ccorrect message. For Eg., total cases in India
+2020-04-13/13:02:55		user Says: country with the maximum recovered cases
+2020-04-13/13:02:55		Bot Says: Sorry I cannot recognize your msg. Please provide a ccorrect message. For Eg., total cases in India
+2020-04-13/13:03:47		user Says: country with maximum recovered cases
+2020-04-13/13:03:47		Bot Says: Sorry I cannot recognize your msg. Please provide a ccorrect message. For Eg., total cases in India
+2020-04-13/13:05:24		user Says: maximum number recovered cases
+2020-04-13/13:05:25		Bot Says: Hey, the total number of recovered cases in **World** is 421722
+2020-04-13/13:06:46		user Says: 3 country which has more recovered cases
+2020-04-13/13:06:46		Bot Says: Hey Sorry, I could not recognize the country name correctly,Could you please provide the country name correctly
+2020-04-13/13:07:27		user Says: 3 countries which has maximum number of recovered cases
+2020-04-13/13:07:27		Bot Says: Hey Sorry, I could not recognize the country name correctly,Could you please provide the country name correctly
+2020-04-13/13:08:33		user Says: 3 countries which has maximum number of recovered cases
+2020-04-13/13:08:33		Bot Says: Hey Sorry, I could not recognize the country name correctly,Could you please provide the country name correctly
+2020-04-13/13:09:36		user Says: 3 countries which has maximum number of recovered cases
+2020-04-13/13:09:36		Bot Says: Hey Sorry, I could not recognize the country name correctly,Could you please provide the country name correctly
+2020-04-13/13:10:14		user Says: 3 countries with maximum number of recovered cases of covid-19 virus
+2020-04-13/13:10:14		Bot Says: Please find the below table 
+ Country   |	 total 
+-------  |	 ---------- 
+China  |	  77956 
+Spain  |	  62391 
+Germany  |	  60300 
+
+2020-04-13/13:18:06		user Says: 2 countries with minimumum number of um number of deaths of covid-19 virus
+2020-04-13/13:18:06		Bot Says: Please find the below table 
+ Country   |	 total 
+-------  |	 ---------- 
+Rwanda  |	  0 
+Saint Lucia  |	  0 
+
+2020-04-13/13:18:36		user Says: total coroana cases in saint lucia
+2020-04-13/13:18:36		Bot Says: Hey, the total number of confirmed casesin **Saint Lucia** is 15
