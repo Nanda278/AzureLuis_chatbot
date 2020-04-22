@@ -11,7 +11,7 @@ from covid import weolcomebot
 app = Flask(__name__, template_folder=".")
 loop = asyncio.get_event_loop()
 
-#bot_settings = BotFrameworkAdapterSettings("de9aca59-6735-4357-bc90-74eddaa0a359", "??OT865F_cHqE6oIVJRZDtwkVPk=T5IQ")
+
 bot_settings = BotFrameworkAdapterSettings("", "")
 bot_adapter = BotFrameworkAdapter(bot_settings)
 
